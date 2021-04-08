@@ -3,8 +3,12 @@ RENCANA KONTENT WPU
 -Javascript
 * ES6
 * Framework javascript
+  ^Vue
+  ^React
 -Struktur Data Dasar
 -php Frameworks
+ ^Laravel
 -Interview
--Vlog
+-Vlogs
+-Python
  
